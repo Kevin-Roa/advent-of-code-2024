@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/2024",
+  "main": "day1.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
